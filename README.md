@@ -1,11 +1,13 @@
 ### Hi, I'm Ankit Kumain! 👋
 
-Here are some ideas to get you started:
+#### My portfolio website
+https://ankitkumain.netlify.app/
 
-- 🔭 I’m currently working on Mark 15 projects
+#### More About me:
+
 - 🌱 I’m currently learning web designing with neog Level 0.
-- 🤔 I’m looking for help with getting started with open source projects.
-- 💬 Ask me about anything related to fundamentals of C++.
-- 📫 How to reach me: 
 
-
+#### 📫 Connect with me:  
+* [Linkedin](https://www.linkedin.com/in/ankit-kumain-4124a21b3/)
+* [Twitter](https://twitter.com/Ankit_k10)
+* [Website](https://ankitkumain.netlify.app/)
