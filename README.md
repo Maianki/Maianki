@@ -1,5 +1,8 @@
 ### Hi, I'm Ankit Kumain! 👋
 
+#### Technologies I know
+C++, Python, HTML, CSS, Javascript and Scrapy
+
 #### My portfolio website
 [Check Here](https://ankitkumain.netlify.app/)
 
