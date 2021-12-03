@@ -8,7 +8,7 @@ C++, Python, HTML, CSS, Javascript and Scrapy
 
 #### More About me:
 
-- 🌱 I’m currently learning web designing with neog Level 0.
+- 🌱 I’m currently learning web designing with neog.
 
 #### 📫 Connect with me:  
 * [Linkedin](https://www.linkedin.com/in/ankit-kumain-4124a21b3/)
