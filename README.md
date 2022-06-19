@@ -5,7 +5,7 @@ Frontend Wed Developer
 ----------------------
 
 * 🌍  I'm based in India
-* 🧠  I'm learning web development with @neogCamp
+* 🧠  I'm learning typescript these days.
 * 🤝  I'm open to collaborating on interesting projects around HTML, CSS, React, Redux and Javascript.
 
 ### Skills
